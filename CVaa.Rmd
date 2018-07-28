@@ -1,0 +1,237 @@
+---
+title: "CV"
+author: "Christopher C. Spencer"
+bibliography: r-references.bib
+output:
+  pdf_document:
+    latex_engine: pdflatex
+    template: svm-latex-cv.tex
+  html_document: default
+  word_document: default
+fontawesome: yes
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 12pt
+geometry: margin=1in
+jobtitle: Clinical Psychology PhD Candidate
+keywords: null
+linkcolor: blue
+email: CSpencer@knights.ucf.edu
+phone: 239-218-4045
+address: 4111 Pictor Lane, Orlando, FL 32828
+updated: no
+urlcolor: blue
+---
+
+# Education
+
+*University of Central Florida*, Ph.D. Psychology---Clinical \hfill Anticipated 2020
+
+*Western Carolina University*, M.A. Clinical Psychology \hfill 2014
+
+*University of Central Florida*, B.S. Psychology \hfill 2012
+
+```{r include = FALSE}
+library("papaja")
+prep<-"In Preparation"
+press<-"In Press"
+review<-"In Review"
+me<-"**Spencer, C. C.**"
+```
+# Record of Scholarly Work
+## Publications
+<!-- These lines ensure references are sciteet with hanging indents in PDF documents; they are ignored in Word. -->
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+
+`r me`, Foster, J.D., & Bedwell, J.S. (`r review`). Narcissistic neuroticism and elevated reward learning
+
+`r me`, Foster, J.D., & Bedwell, J.S. (2017). Structural relationships among the Revised Reward Sensitivity Theory and grandiose and vulnerable narcissism. *Journal of Personality Disorders*. Ahead of print access: https://doi.org/10.1521/pedi_2017_31_318.
+
+Bedwell, J.S., `r me`, Chirino, C.A., & O'Donnell, J.P. (`r review`) The sweet taste test: Relationships with anhedonia subtypes, personality traits, and luteal menstrual cycle phase.
+
+Kramer, M., Wilborn, D., `r me`, Stevenson, B., Dvorak, R., (`r review`). Protective behavioral strategies attenuate the association between narcissistic traits and alcohol pathology in college student drinkers. *Substance Use and Misuse*.
+
+Bedwell, J.S, `r me`, Chan, C.C, Butler, P.D., Sehatpour, P., & Schmidt, J. (2018). The P1 Visual-Evoked Potential and transdiagnostic psychiatric symptoms. *Brain research*. *1687*, 144-154. doi:https://doi.org/10.1016/j.brainres.2018.03.002
+
+Bedwell, J. S., Potts, G. F., Gooding, D. C., Trachik, B. J., Chan, C. C., & `r me` (2016). Transdiagnostic psychiatric symptoms and Event-Related Potentials following rewarding and aversive outcomes. *Plos ONE*, *11(6)*, 1-16. doi:10.1371/journal.pone.0157084
+
+Chan, C. C., `r me`, West, C., Viegas, C., & Bedwell, J. S. (2015). Metacognitive processes in psychometrically defined schizotypy. *Psychiatry Research*, 279-286. doi:10.1016/j.psychres.2015.09.006.  
+
+## Book Chapters
+Bedwell, J.S., `r me`, & O'Donnell, J. Promise and challenges with the Research Domain Criteria framework. In Beidel, D.C. & Frueh, C. (Eds.), *Adult Psychopathology and Diagnosis 8th edition*. Hoboken: John Wiley & Sons, Inc.
+
+## Thesis and Dissertation:
+`r me`, & Bobadilla, L. (2013). The effect of psychopathy, empathy, and gender on gaze patterns. Entire thesis defended December, 6, 2013.
+
+##Invited lectures and symposia
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+
+Orlando Health UF Health Cancer Center \hfill 7/2018  
+*Invited lecture on personality pathology and distress in cancer patients*  
+Integrative medicine department
+
+UCF College of Medicine--Invited Lecture \hfill 3/2018  
+*Rewarding Narcissus: Anticipatory, Consummatory, and Reward Processes in Narcissism*  
+Multidisciplinary Neuroscience Alliance--Brain Awareness Week
+
+University of Central Florida \hfill 2/2018  
+*Trait-based personality disorder assessment: Using the DSM-5 Alternative Model*    
+Adult Psychological Assessment--PhD program course
+
+University of Central Florida \hfill 2/2018  
+*Bayesian assessment and treatment of comorbid Temporal Lobe Epilepsy and Social Anxiety*    
+Talk presented to the faculty of the Clinical Psychology PhD program
+
+
+
+\setlength{\parindent}{-0.5in}
+\setlength{\leftskip}{0.5in}
+
+## Professional Presentations at Scientific Conferences 
+
+`r me`, Bedwell, J.S., Bohil, C.J. (2018). Bayesian examination of reward processing in narcissism. Poster to be presented at the 32nd annual meeting of the Society for Research in Psychopathology. Indianapolis, IN.
+
+Bedwell, J.S., `r me`, Chiorino, C.A., O'Donnell, J.P. (2018). Assessment of Initial Responsiveness to Reward Attainment. Poster to be presented at the 32nd annual meeting of the Society for Research in Psychopathology. Indianapolis, IN.
+
+O'Donnell, J.P., `r me`, Bedwell, J.S. (2018). Past Cannabis Use, Biological Sex, and Anhedonia Across Psychiatric Diagnoses. Poster to be presented at the 32nd annual meeting of the Society for Research in Psychopathology. Indianapolis, IN.
+
+Dvorak, T., Robinson, D., Wiener, C., `r me`, Metcalf, D., Hajdenberg, J. (2017)
+Distress screening completion experience: Does a physical robot make a difference? Poster to be presented at 2018 Meeting of the American Society of Clinical Oncology. Chicago, IL.
+
+`r me`, Bedwell, J.S., O'Donnell, J.P. (2017, September). A Multilevel Examination of the Narcissism Spectrum and the Revised Reward Sensitivity Theory of Personality. Poster presented at the 31st Annual Meeting of the Society for Research in Psychopathology. Denver, CO.
+
+Bedwell, J.S., `r me`, Chan, C.C., Butler, P., Sehatpour, Schmidt, (2017, September). The P1 Visual-Evoked Potential and Transdiagnostic Psychiatric Symptoms. Symposium presented at the 31st Annual Meeting of the Society for Research in Psychopathology. Denver, CO.
+
+`r me`, Foster, J.D., Braden, D.E., & Bedwell, J.S. (2017, May).  Structural Relationships among the Revised Reward Sensitivity Theory and Grandiose and Vulnerable Narcissism. Poster presented at 72st Annual Scientific Meeting of the Society of Biological Psychiatry, San Diego, CA.
+
+`r me`, Foster, J.D., Braden, D.E., & Bedwell, J.S. (2016, May).  Differential Relationship between Subtypes of Self-Reported Narcissism with Behavioral Reward Sensitivity. Poster presented at 71st Annual Scientific Meeting of the Society of Biological Psychiatry, Atlanta, GA.
+
+Bedwell, J.S., Potts, G.F., Gooding, D.C., Trachik, B.J., Chan, C.C., & `r me`. (2016, May). Transdiagnostic psychiatric symptoms and event-related potentials following rewarding and aversive outcomes. Poster presented at 71st Annual Scientific Meeting of the Society of Biological Psychiatry, Atlanta, GA.
+
+Bedwell, J.S., Potts, G.F., Gooding, D.C., Trachik, B.J., Chan, C.C., & `r me`. (2015, October). A transdiagnostic examination of neurophysiology during reward processing in schizophrenia-spectrum and bipolar disorders. Oral session presented at the 29th Annual Meeting of the Society for Research in Psychopathology, New Orleans, LA.
+
+Chan, C. C., `r me`, West, C., Viegas, C., & Bedwell, J. S. (2015, May). Metacognitive processes in psychometrically-defined schizotypy. Poster presented at the 70th Annual Scientific Meeting of the Society of Biological Psychiatry, Toronto, Ontario, Canada.
+
+Blanchard, B., Prince, G., `r me`, Love, G. (2014, May). The multiscale feigning index: Convergent and divergent validity. Poster to be presented at the 26th meeting of the Association for Psychological Science in San Francisco, C.A.
+
+Bobadilla, L., `r me`, Miller, L., Lima, L. (2013, June). Psychopathic traits relate differentially to men and women's deficits in recognition of emotional faces and eye-movement while processing threatening stimuli. Talk presented at the 5th meeting of the Society for the Scientific Study of Psychopathy in Washington, D.C.
+
+`r me`, Bobadilla, L. (2013, May). The effect of psychopathy on gaze patterns when viewing fearful stimuli. Poster presented at the 25th annual convention of the Association for Psychological Sciences in Washington, D.C.
+
+`r me`, Bobadilla, L., Fu, Y. (2013, March). Psychopathic traits and eye-tracking of fearful and threatening stimuli. Poster presented at the 59th annual meeting of the Southeastern Psychological Association in Atlanta, GA.
+
+`r me`, Bobadilla, L. (2013, March). The effect of psychopathy, empathy, and gender on gaze patterns. Symposium presented at the 21st Annual WCU Graduate Research Symposium.
+
+Bedwell, J.S., Rassovsky, Y., Butler, P., Ranieri, A., `r me`, and Deptula, A.E. (2012, August). The relationship of visual-evoked potentials with specific symptoms of schizophrenia.
+
+Bedwell, J.S., Chan, C.C., Trachik, B.J., `r me`, Richards, D., & Rassovsky, Y. (2012, May). Red light and early visual-evoked potentials in relation to specific symptoms of schizotypy. 
+
+Ragsdale, K.A., Mitchell, J.C., Kadison, L.S., Schlander, D.S., `r me`, & Bedwell, J. S. (2012, September). Electrodermal arousal to pictures of others in distress in individuals with schizotypy.
+
+\setlength{\parindent}{0in}
+\setlength{\leftskip}{0in}
+
+# Clinical Experience 
+Orlando Regional Medical Center UF Health Cancer Center \hfill 1/2018--Present  
+*Graduate Student Clinician*  
+Supervisor: Dr. Diane Robinson 
+
+UCF Psychology Outpatient Clinic \hfill	1/2015--Present  
+*Graduate Student Clinician--Adult and Child practica*  
+Supervisors: Drs. Renk, Rapport, Dunn, Newins, and Bedwell 
+
+UCF Health College of Medicine Practice \hfill 1/2017--12/2017  
+*Primary Care Behavioral Health Consultant*  
+Supervisor: Cerissa Blaney, PhD
+
+NIMH Grant (1R15MH097222-01A1) \hfill 1/2015--8/2016  
+*Graduate Research Assistant*  
+Supervisor: Jeffrey Bedwell, PhD	
+
+Charles George VA Medical Center, \hfill 8/2013--5/2014  
+*Practicum Student*  
+Neuropsych, Substance Use, Acute Inpatient Rotations  
+Supervisor: Robert Rhodes, PhD  
+
+WCU Psychological Services Clinic, Cullowhee, North Carolina \hfill 1/2013--5/2013  
+*Graduate Trainee*  
+Supervisors: Lori Unruh, PhD & David M. McCord, PhD  
+
+# Specialized Research Training
+Introduction to Multilevel Modeling \hfill 6/6--6/8, 2016  
+Center for Advancement of Research Methods and Analysis  
+Short Course Program, Wayne State University  
+Instructor: James LeBreton, PhD	 
+
+Advanced Multilevel Modeling \hfill 6/9-6/11, 2016  
+Center for Advancement of Research Methods and Analysis  
+Short Course Program, Wayne State University  
+Instructor: Paul Bliese, PhD	
+
+# Teaching Experience
+University of Central Florida \hfill Spring 2017   
+*Instructor of Record*  
+Statistical Methods in Psychology Lecture and Lab  
+
+University of Central Florida \hfill Fall 2016  
+*Instructor of Record*  
+Abnormal Psychology	 
+
+University of Central Florida \hfill Fall 2017--Fall 2018     
+*Lab Instructor*  
+Research Methods in Psychology	 
+
+Graduate Teaching in Psychology Seminar	\hfill Summer 2016  
+Professor: Alisha Janowsky, PhD  
+
+Western Carolina University \hfill Fall 2013--Spring 2014  
+*Graduate Teaching Assistant*  
+Undergraduate/Graduate Statistics  	
+Supervisor: Professor W. David Scales	 
+
+Western Carolina University \hfill Fall 2012--Spring 2013  
+*Graduate Teaching Assistant*   
+Undergraduate Statistics  
+Supervisor: William Poynter, PhD	
+
+# University Service and Professional Experiences
+Geriatric Health and Wellness Interprofessional Assessment \hfill Fall 2017  
+*Behavioral Health Representative*
+
+UCF Faculty Meeting Student Representative \hfill Fall 2015--Present  
+*Student Liaison*	 
+
+Clinical Psychology Colloquia Committee \hfill Fall 2015--Present  
+*Student Liaison*  	 
+
+Cognitive Neuroscience Interest Group \hfill 8/2014--1/2017  
+*President*  
+
+Association for Psychological Science  
+*WCU Student Caucus Representative* \hfill 5/2013--5/2014  
+*UCF Student Caucus Representative*	\hfill 8/2015--Present  
+
+WCU Alumni Award Lunch	
+*Psychology Department Student Representative* \hfill	10/2013  
+
+WCU Professional Development  
+Hours: 6 \hfill Fall 2012  
+F.A.C.E. Research Group  
+
+# Professional Organizations
+Society for Research in Psychopathology  
+*Associate Member*  
+
+Association for Psychological Science  
+*Student Member*  
+*UCF Student Caucus Representative*  
+
+American Psychological Association  
+*Student Member*  
+
+International Society for the Study of Personality Disorders  
+*Student Member*  
